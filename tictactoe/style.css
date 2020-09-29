@@ -9,9 +9,9 @@
 }
 
 .cell {
-    width: 3em;
+    width: 1em;
     height: 1em;
-    border: 1px solid slategray;
+    border: 1px solid black;
     text-align: center;
     font-size: 10em;
 }
