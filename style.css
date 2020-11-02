@@ -1,0 +1,17 @@
+.container {
+    margin: auto;
+    margin-top: 1em;
+    width: 30em;
+    height: 30em;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.cell {
+    width: 1em;
+    height: 1em;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 10em;
+}
